@@ -1,6 +1,3 @@
 .env
 chroma_db
-_req.txt
-store
-a.ipynb
-google_search.ipynb
+
