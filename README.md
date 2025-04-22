@@ -13,12 +13,11 @@
     ```
 
 3. **Access the API**
-    ### Open your browser or API client and navigate to:
     ```bash
     http://127.0.0.1:8000
     ```
 
-    ### The API documentation is available at:
+    For Swagger UI:
     ```bash
     http://127.0.0.1:8000/docs
     ```
